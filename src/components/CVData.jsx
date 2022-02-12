@@ -66,7 +66,7 @@ export const CVData = {
           title: 'Software Engineer',
           company: 'ADANI',
           description: 
-          'Developing software for security and robotic hardware products.',
+          'Developing software for X-Ray security and robotic hardware products.',
           companyWebSite: 'www.adani.by',
           datesBetween: '2014.02 - 2015.10',
           descriptionTags: ['.NET', 'C#', "WinForms", "C++", "Delphi", "SerialPort", "X-Ray"]
