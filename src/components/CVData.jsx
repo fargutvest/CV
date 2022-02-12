@@ -35,7 +35,7 @@ export const CVData = {
           company: 'ICE Mortgage Technology',
           description: 'Fintech domain, full-stack.',
           companyWebSite: 'www.icemortgagetechnology.com',
-          datesBetween: '2019.08 - Present',
+          datesBetween: '2019.08 - Present time',
           descriptionTags: ['.NET', 'C#', "MySql", "Java", "Spring", "React", "Kafka", "ELK" ]
         },
         {
