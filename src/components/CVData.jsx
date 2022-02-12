@@ -69,7 +69,7 @@ export const CVData = {
           'Developing software for security and robotic hardware products.',
           companyWebSite: 'www.adani.by',
           datesBetween: '2014.2 - 2015.10',
-          descriptionTags: ['.NET', 'C#', "WinForms", "Delphi", "SerialPort", "X-Ray"]
+          descriptionTags: ['.NET', 'C#', "WinForms", "C++", "Delphi", "SerialPort", "X-Ray"]
         },
         {
           title: 'Software Engineer',
@@ -101,7 +101,7 @@ export const CVData = {
       type: 'tag-list',
       title: 'Skills',
       icon: 'rocket',
-      items: ['.NET', 'C#', 'WPF', 'WinForms', 'Xamarin', 'Silverlight', 'Delphi', 'X-Ray', 'Andriod', 'Java', 'Spring', 'React', 'Angular 4', 'Typescript', 'SQL', 'MySQL', 'Kafka', 'ELK']
+      items: ['.NET', 'C#', 'WPF', 'WinForms', 'Xamarin', 'Silverlight', 'C++', 'Delphi', 'X-Ray', 'Andriod', 'Java', 'Spring', 'React', 'Angular 4', 'Typescript', 'SQL', 'MySQL', 'Kafka', 'ELK']
     },
     {
       type: 'tag-list',
