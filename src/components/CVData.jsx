@@ -68,7 +68,7 @@ export const CVData = {
           description: 
           'Developing software for security and robotic hardware products.',
           companyWebSite: 'www.adani.by',
-          datesBetween: '2014.2 - 2015.10',
+          datesBetween: '2014.02 - 2015.10',
           descriptionTags: ['.NET', 'C#', "WinForms", "C++", "Delphi", "SerialPort", "X-Ray"]
         },
         {
