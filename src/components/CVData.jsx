@@ -101,7 +101,7 @@ export const CVData = {
       type: 'tag-list',
       title: 'Skills',
       icon: 'rocket',
-      items: ['.NET', 'C#', 'WPF', 'Java', 'Spring', 'React', 'SQL']
+      items: ['.NET', 'C#', 'WPF', 'WinForms', 'Xamarin', 'Silverlight', 'Delphi', 'X-Ray', 'Andriod', 'Java', 'Spring', 'React', 'Angular 4', 'Typescript', 'SQL', 'MySQL', 'Kafka', 'ELK']
     },
     {
       type: 'tag-list',
