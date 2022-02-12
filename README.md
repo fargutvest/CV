@@ -1,2 +1,2 @@
-Mine CV
+Mine CV:
 https://fargutvest.github.io/CV/
