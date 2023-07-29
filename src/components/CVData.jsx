@@ -2,7 +2,7 @@ export const CVData = {
   personalData: {
     name: 'Henadzi Myslitski',
     title: 'Senior Software Engineer',
-    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEBZrL8hWe64w/profile-displayphoto-shrink_200_200/0/1564034782491?e=1649894400&v=beta&t=0y7Exig6iC7SVhUbN6-0451QUGuNX6caxrAJH2WKdek',
+    image: 'https://media.licdn.com/dms/image/D4D35AQE71YzduoIBCQ/profile-framedphoto-shrink_200_200/0/1689960496539?e=1691222400&v=beta&t=aqmD3ruOCU1zCbHtt5YJRo9c9nyqgQHLZs379XafUOM',
     contacts: [
       { type: 'email', value: 'fargutvest@gmail.com' },
       { type: 'phone', value: '+375 (29) 886 59 57' },
@@ -30,12 +30,20 @@ export const CVData = {
       title: 'Experiences',
       icon: 'archive',
       items: [
+	   {
+          title: 'Software Designer',
+          company: 'Globant',
+          description: 'AAA Game dev',
+          companyWebSite: 'https://www.globant.com/',
+          datesBetween: '2022.04 - Present time',
+          descriptionTags: ['.NET', 'C#', 'WPF', 'C++', 'Houdini']
+        },
         {
           title: 'Senior Software Engineer',
           company: 'ICE Mortgage Technology',
           description: 'Fintech domain, full-stack.',
           companyWebSite: 'www.icemortgagetechnology.com',
-          datesBetween: '2019.08 - Present time',
+          datesBetween: '2019.08 - 2022.04',
           descriptionTags: ['.NET', 'C#', "MySql", "Java", "Spring", "React", "Kafka", "ELK" ]
         },
         {
