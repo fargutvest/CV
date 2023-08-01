@@ -33,7 +33,7 @@ export const CVData = {
 	   {
           title: 'Software Designer',
           company: 'Globant',
-          description: 'AAA Game dev',
+          description: 'WPF Tools for AAA Game dev',
           companyWebSite: 'https://www.globant.com/',
           datesBetween: '2022.04 - Present time',
           descriptionTags: ['.NET', 'C#', 'WPF', 'C++', 'Houdini']
@@ -41,10 +41,10 @@ export const CVData = {
         {
           title: 'Senior Software Engineer',
           company: 'ICE Mortgage Technology',
-          description: 'Fintech domain, full-stack.',
+          description: 'mortgage, fintech domain, banks of USA',
           companyWebSite: 'www.icemortgagetechnology.com',
           datesBetween: '2019.08 - 2022.04',
-          descriptionTags: ['.NET', 'C#', "MySql", "Java", "Spring", "React", "Kafka", "ELK" ]
+          descriptionTags: ['.NET', 'C#', "MySql", "Java", "Spring", "React", "Kafka", "Microservices", "ELK" ]
         },
         {
           title: 'Software Engineer',
@@ -65,7 +65,12 @@ export const CVData = {
         {
           title: 'Software Engineer',
           company: 'Synesis',
-          description: 'Game dev for Android and iOS platforms. "WildRade Race & Shoot" game for modile.',
+          description: 'C# .NET game developing in Xamarin for Android and IOS platform.' +
+          'I worked there on one little project. It is game in race for mobile platform.' +
+          
+          'Used technology: .NET, Xamarin and company-made game engine.' +
+          'My responsibilities: fix bugs, add new features.' +
+          'Team of 4 programmers and 2 testers.',
           companyWebSite: 'synesis-group.com',
           datesBetween: '2015.10 - 2016.01',
           descriptionTags: ['.NET', 'C#', "Xamarin", "Android", "iOS"]
@@ -74,7 +79,16 @@ export const CVData = {
           title: 'Software Engineer',
           company: 'ADANI',
           description: 
-          'Developing software for X-Ray security and robotic hardware products.',
+          'C# .NET developing security and robotic software.' +
+          'I there participated in develop on a few projects:' +
+          'Bagage scanner - robotic x-ray security control bagage with output image in to display.' +
+          'Control of passangers - robotic x-ray security control human in full growth with output image to display.' +
+          'Delivery of liquids in electron paramagnetic resonance spectrometer - servomotor installation for transfer liquids in to spectrometer.' +
+          'Terascan - medical x-ray installation for irradiation of cancerous tumors.' +
+          
+          'Used technology: .Net Framework 4.5, Windows Forms.' +
+          'My resposibilities: develop new software in order to migrate with old Delphi code in to progressive C# code.' +
+          'Team of 6 programmers and 2 testers.',
           companyWebSite: 'www.adani.by',
           datesBetween: '2014.02 - 2015.10',
           descriptionTags: ['.NET', 'C#', "WinForms", "C++", "Delphi", "SerialPort", "X-Ray"]
@@ -82,7 +96,11 @@ export const CVData = {
         {
           title: 'Software Engineer',
           company: 'Energomera',
-          description: 'Developing software for metrology calibration of energy counters.',
+          description: 'C# .NET developing metrology sofware, cooperation with database.' +
+          'I worked there on a few projects for inner manufacture needs: Accounting operations manufacture operators in database.' +
+          'Metrology calibration, verification counters electroenergy.' +
+          'Generation reports. Used technology: .Net Framework 4.5, Windows Forms, ADO.NET' +
+          'My responsibilities: develop new software. Team of 1 programmer (me).',
           companyWebSite: 'energomera.by',
           companyMeta: 'Fanipol, Belarus',
           datesBetween: '2012.08 - 2014.02',
