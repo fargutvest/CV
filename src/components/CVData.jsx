@@ -33,7 +33,15 @@ export const CVData = {
 	   {
           title: 'Software Designer',
           company: 'Globant',
-          description: 'WPF Tools for AAA Game dev (no more details so far because NDA)',
+          companyMeta: 'This is out-source copmpany headquarted in Argentina and specializing on out-sourcing.',
+          description:
+          'Worked on 1 project with UK customer. ' +
+          'This is Procedural World toolset for AAA Game dev team. ' + 
+          'Used .NET C# and WPF as main technologies. ' +
+          'Leaded development process, promoted architectural improvements. ' +
+          'Participated daily SCRUM video-calls with customer. ' + 
+          'Reported about my work and discussed techical topics in English. ' +
+          'Mentored Junior teammates. ',
           companyWebSite: 'https://www.globant.com/',
           datesBetween: '2022.04 - Present time',
           descriptionTags: ['.NET', 'C#', 'WPF', 'C++', 'Houdini']
@@ -41,7 +49,13 @@ export const CVData = {
         {
           title: 'Senior Software Engineer',
           company: 'ICE Mortgage Technology',
-          description: 'mortgage, fintech domain, banks of USA (no more details so far because NDA)',
+          companyMeta: 'This is product copmpany headquarted in USA and specializing on mortagage.',
+          description: 
+          'Worked on 2 projects. '+  
+          'First one is integrational service between Loan Origination Systems. ' +
+          'Second one is web application for automation routine of Bank`s underwriter. ' +
+          'Automated Underwriter Service (AUS) ' +
+          'mortgage, fintech domain, banks of USA (no more details so far because NDA)',
           companyWebSite: 'www.icemortgagetechnology.com',
           datesBetween: '2019.08 - 2022.04',
           descriptionTags: ['.NET', 'C#', "MySql", "Java", "Spring", "React", "Kafka", "Microservices", "ELK" ]
@@ -49,6 +63,7 @@ export const CVData = {
         {
           title: 'Software Engineer',
           company: 'Leapwork',
+          companyMeta: 'This is product copmpany headquarted in Denmark with own product - named LEAPWORK.',
           description: 'Full-stack development of desktop client-server "LEAPWORK" application for automation testing with no code. (no more details so far because NDA)',
           companyWebSite: 'www.leapwork.com',
           datesBetween: '2018.05 - 2019.08',
@@ -57,6 +72,7 @@ export const CVData = {
         {
           title: 'Software Engineer',
           company: 'OptixSoft',
+          companyMeta: 'This is product copmpany headquarted in Belarus and spicializing in maintain of fiber lines.',
           description: 'Full-stack development of fiber line maintenance application, desktop & web versions. (no more details so far because NDA)',
           companyWebSite: 'www.optixsoft.com',
           datesBetween: '2016.05 - 2018.05',
@@ -65,6 +81,7 @@ export const CVData = {
         {
           title: 'Software Engineer',
           company: 'Synesis',
+          companyMeta: 'This is product copmpany headquarted in Russia.',
           description: 'C# .NET game developing in Xamarin for Android and IOS platform. ' +
           'I worked there on one little project. It is game in race for mobile platform. ' +
           'Used technology: .NET, Xamarin and company-made game engine. ' +
@@ -76,7 +93,8 @@ export const CVData = {
         },
         {
           title: 'Software Engineer',
-          company: 'ADANI',
+          company: 'ADVIN',
+          companyMeta: 'This is product copmpany headquarted in Belarus and specializing on x-ray security.',
           description: 
           'C# .NET developing security and robotic software. ' +
           'I there participated in develop on a few projects: ' +
@@ -88,20 +106,20 @@ export const CVData = {
           'Used technology: .Net Framework 4.5, Windows Forms. ' +
           'My resposibilities: develop new software in order to migrate with old Delphi code in to progressive C# code. ' +
           'Team of 6 programmers and 2 testers. ',
-          companyWebSite: 'www.adani.by',
+          companyWebSite: 'www.advin.by',
           datesBetween: '2014.02 - 2015.10',
           descriptionTags: ['.NET', 'C#', "WinForms", "C++", "Delphi", "SerialPort", "X-Ray"]
         },
         {
           title: 'Software Engineer',
           company: 'Energomera',
+          companyMeta: 'This is product copmpany headquarted in Belarus  and specializing in ASCAPC. Automatic System for Commercial Accounting of Power Consumption.',
           description: 'C# .NET developing metrology sofware, cooperation with database. ' +
           'I worked there on a few projects for inner manufacture needs: Accounting operations manufacture operators in database. ' +
           'Metrology calibration, verification counters electroenergy. ' +
           'Generation reports. Used technology: .Net Framework 4.5, Windows Forms, ADO.NET ' +
           'My responsibilities: develop new software. Team of 1 programmer (me). ',
           companyWebSite: 'energomera.by',
-          companyMeta: 'Fanipol, Belarus',
           datesBetween: '2012.08 - 2014.02',
           descriptionTags: ['.NET', 'C#', "MS SQL", "WinForms", "SerialPort"]
         }
