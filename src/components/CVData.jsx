@@ -2,7 +2,7 @@ export const CVData = {
   personalData: {
     name: 'Henadzi Myslitski',
     title: 'Senior Software Engineer',
-    image: 'https://media.licdn.com/dms/image/D4D35AQE71YzduoIBCQ/profile-framedphoto-shrink_200_200/0/1689960496539?e=1691222400&v=beta&t=aqmD3ruOCU1zCbHtt5YJRo9c9nyqgQHLZs379XafUOM',
+    image: 'https://media.licdn.com/dms/image/D4E35AQGnMQIAgiyFoQ/profile-framedphoto-shrink_200_200/0/1691061599370?e=1691748000&v=beta&t=1kaXuJbtf52yeNkpy3JiOTuh9dMcXQC2GNQSau5kArs',
     contacts: [
       { type: 'email', value: 'fargutvest@gmail.com' },
       { type: 'phone', value: '+375 (29) 886 59 57' },
