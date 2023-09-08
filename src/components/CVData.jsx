@@ -2,7 +2,7 @@ export const CVData = {
   personalData: {
     name: 'Henadzi Myslitski',
     title: 'Senior Software Engineer',
-    image: 'https://ibb.co/yVnNgHK',
+    image: 'https://raw.githubusercontent.com/fargutvest/CV/master/src/components/avatar.jpg',
     contacts: [
       { type: 'email', value: 'fargutvest@gmail.com' },
       { type: 'phone', value: '+375 (29) 886 59 57' },
