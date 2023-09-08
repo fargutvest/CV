@@ -1,7 +1,7 @@
 export const CVData = {
   personalData: {
     name: 'Henadzi Myslitski',
-    title: 'Senior Software Engineer',
+    title: '.NET C# Engineer with 10+ years experience | WPF & Backend',
     image: 'https://raw.githubusercontent.com/fargutvest/CV/master/src/components/avatar.jpg',
     contacts: [
       { type: 'email', value: 'fargutvest@gmail.com' },
